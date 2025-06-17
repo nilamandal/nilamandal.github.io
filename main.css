@@ -28,3 +28,6 @@ p {
 .active{
   border-bottom: 1px solid #bdbdbd;
 }
+li{
+  list-style: circle;
+}
