@@ -28,9 +28,4 @@ p {
 .active{
   border-bottom: 1px solid #bdbdbd;
 }
-li{
-  list-style: circle;
-  font-family: 'Crimson Text', Georgia, Times, serif;
-  font-size: 20px;
-  line-height: 25px;
-}
+
